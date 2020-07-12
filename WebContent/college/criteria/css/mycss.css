@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+.mytable{
+	width:100%;
+	border-spacing:10px;
+	border-collapse:collapse;
+	font-family:Times New Roman;
+	font-size:18px;
+	border:2px solid;
+	border-color:rgba(0, 0, 0, 0.52);
+}
+
+.mytable th{
+	text-align:center;
+	padding:10px;
+	background: rgba(0, 0, 0, 0.52);
+}
+
+.mytable .tdstr{
+	text-align:center;
+	border:1px solid black;
+}
